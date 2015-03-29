@@ -24,7 +24,7 @@ void loop() {
 }
 
 
-// how the arduino kit runs
+// how arduino program runs
 int int main() {
 
   init();
