@@ -16,6 +16,7 @@ void setup() {
 	// declare pushbutton as input
 	// enable pull-up resistors
 }
+
 void loop() {
 	for(int index = 0; index < 4; index++) {
 		int val = digitalRead(inputPins[i]);
