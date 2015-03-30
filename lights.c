@@ -25,6 +25,7 @@ void loop() {
 
 
 // how arduino program runs
+/*
 int int main() {
 
   init();
@@ -36,3 +37,4 @@ int int main() {
 
   return 0;
 }
+*/
