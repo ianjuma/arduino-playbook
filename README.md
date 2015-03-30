@@ -1,7 +1,11 @@
-#### My Arduino Musings and Rants
+##### My Arduino musings and rants
 
-Feel free to contribute.
-Compile and run using Arduino IDE.
-Compile using avr-gcc and upload the code to the device using avrdude.
+Feel free to contribute :)
 
-Here's how to build - [Arduino Build with avr-gcc](http://arduino.cc/en/Hacking/BuildProcess "Arduino Build with avr-gcc").
+
+**How to Build**
+
+1. Compile and run using **Arduino IDE**.
+2. Compile using **avr-gcc** and upload the code to the device using **avrdude**.
+
+Here's how to build - [Arduino Build with avr-gcc](http://arduino.cc/en/Hacking/BuildProcess "Arduino Build with avr-gcc.")
